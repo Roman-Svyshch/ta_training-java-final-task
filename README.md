@@ -35,7 +35,7 @@ This project automates the testing of the login form on the Swag Labs website us
 1. Clone the repository:
 
    ```bash
-   git clone <URL_REPOSITORY>
+   git clone https://github.com/Roman-Svyshch/ta_training-java-final-task.git
      cd swag-labs-login-test
 
 2. Install Maven dependencies:   
