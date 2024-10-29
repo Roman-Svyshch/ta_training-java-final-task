@@ -1,0 +1,17 @@
+{
+  "validCredentials": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalidCredentials": {
+    "username": "roman",
+    "password": "Svyshch"
+  },
+  "errorMessages": {
+    "usernameRequired": "Epic sadface: Username is required",
+    "passwordRequired": "Epic sadface: Password is required"
+  },
+  "expectedTitle":{
+    "title": "Swag Labs"
+  }
+}
